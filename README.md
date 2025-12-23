@@ -12,7 +12,7 @@ This repository showcases practical Cisco Packet Tracer projects demonstrating h
 
 ## Projects
 1. **Campus LAN (Multi-VLAN / Inter-VLAN Routing)**  
-   - Full documentation and lab files in
+   - Full documentation and lab files in https://github.com/giftnyambe58/MY-packet-tracer-networking-Projects/blob/main/01_Campus_LAN_MultiVLAN/CAMPUS%20LAN%20DESIGN%20WITH%20FULL%20DOCUMENTATAION.pdf
 2. **IP Phones Network (VoIP / Voice VLANs)**  
    - Full documentation and lab files 
 
