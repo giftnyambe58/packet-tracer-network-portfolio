@@ -16,4 +16,4 @@
 - PCs were able to reach ISP and the Internet
 **DOCUMENTATION**
   View the full documentation using the link below
-  
+  https://github.com/giftnyambe58/packet-tracer-network-portfolio/blob/main/Small-network-Design/SMALL%20NETWORK%20DESIGN(01).pdf
