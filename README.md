@@ -15,7 +15,8 @@ This repository showcases practical Cisco Packet Tracer projects demonstrating h
    - Full documentation and lab files in https://github.com/giftnyambe58/MY-packet-tracer-networking-Projects/blob/main/01_Campus_LAN_MultiVLAN/CAMPUS%20LAN%20DESIGN%20WITH%20FULL%20DOCUMENTATAION.pdf
 2. **IP Phones Network (VoIP / Voice VLANs)**  
    - Full documentation and lab files  in https://github.com/giftnyambe58/MY-packet-tracer-networking-Projects/blob/main/IP_PHONES_NETWORK/IP%20PHONES%20CONFIGURATIONS.pdf
-
+3. Small-network-Design
+    - Full documentation and lab files  in
 ## How to Use
 - Open `.pkt` files in Cisco Packet Tracer (v8 recommended)
 - Read PDF documentation for step-by-step instructions
