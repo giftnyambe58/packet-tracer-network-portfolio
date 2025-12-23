@@ -33,7 +33,7 @@ connectivity across all building verified
 
 **DOCUMENTATION**
 view full  project documentation
-https://github.com/giftnyambe58/packet-tracer-network-portfolio/blob/main/CAMPUS%20LAN%20DESIGN%20WITH%20FULL%20DOCUMENTATAION.pdf
+https://github.com/giftnyambe58/packet-tracer-network-portfolio/blob/main/01_Campus_LAN_MultiVLAN/CAMPUS%20LAN%20DESIGN%20WITH%20FULL%20DOCUMENTATAION.pdf
 
 
 
