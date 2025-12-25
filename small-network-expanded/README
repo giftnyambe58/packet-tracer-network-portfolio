@@ -1,0 +1,13 @@
+OBJECTIVE 
+-Helper-address configuration
+- Dhcp pool creation on the server
+- Removing dhcp pools on the router
+TECHNOLOGY USED
+- Relay agent
+- DHCP
+- NAT(STATIC)
+
+VERIFICATION
+- Ensuring previous configurations are not affected.
+DOCUMENTATION
+view full documentation below
