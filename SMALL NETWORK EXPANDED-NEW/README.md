@@ -9,6 +9,7 @@
 - turnining switch interface on MLS int a layer 3 interface(interface to the edge router)
 - NAT for inside host (PAT)
 - NAT for the server (Static)
+  
 **TECHNOLOGY USED**
 - vlan
 - ip routing
